@@ -6,4 +6,8 @@ class Robot
   def name
     "AB123"
   end
+
+  def reset
+  end
+  
 end
